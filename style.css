@@ -1,0 +1,22 @@
+input{
+   border-radius: 5px;
+   background-color: aqua;
+   text-align: center;
+   height: 35px;
+   font-size: 18px;
+   width: 150px;
+}
+button{
+    background-color: blue;
+    border-radius: 5px;
+    outline: none;
+    color: aliceblue;
+    height: 35px;
+    width: 150px;
+    margin-top: 5px;
+}
+h2{
+   color: rgb(69, 42, 165);
+   font-size: 25px;
+   margin-left: 55px;
+}
